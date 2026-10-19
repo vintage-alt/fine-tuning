@@ -1,7 +1,5 @@
 # SecOps-AI: Fine-Tuning Qwen 2.5 (1.5B) for Cybersecurity
 
-# SecOps-AI: Fine-Tuning Qwen 2.5 for Cybersecurity
-
 ## 📌 Project Overview
 This project focuses on fine-tuning a Large Language Model (LLM) to act as a specialized Cybersecurity/SecOps assistant. The goal is to enable the model to parse, understand, and generate complex cybersecurity JSON schemas, specifically focusing on penetration testing methodologies, scope areas, and testing types.
 
